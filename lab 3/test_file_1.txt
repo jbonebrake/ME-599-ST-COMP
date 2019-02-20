@@ -1,0 +1,14 @@
+apple
+box
+tripe
+12.34
+melon
+!AARDvark
+tripe
+12.34
+!AARDvark
+tripe
+12.34
+box
+box
+robert
