@@ -1,0 +1,20 @@
+File structure for IR thermography
+
+name: cond_###_rep_###_######
+	ex. cond_023_rep_00a_(raw,NUC,grad,kernel,temperature)
+elements:
+	- name
+	- data
+	- cond
+	- phi
+	- diluent
+	- x_dil
+	- date
+	- flag
+	- info
+		- N(i)
+		- N(q)
+		- N(0)
+		- flag
+		- notes
+		
